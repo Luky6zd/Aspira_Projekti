@@ -1,7 +1,7 @@
 Ivan;Ivic;1996
 Hrvoje;Horvat;2011
 Jurica;Juric;2007
-Lucrezia;Mestrov;1986
+Lucrezia;Odrljin;1986
 Stipe;Stipic;1976
 Denis;Denic;1984
 Jelena;Jelic;2005
