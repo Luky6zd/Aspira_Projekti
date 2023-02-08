@@ -1,0 +1,10 @@
+Ivan;Ivic;1996
+Hrvoje;Horvat;2011
+Jure;Juric;1978
+Lucrezia;Mestrov;1986
+Stipe;Stipic;1976
+Denis;Denic;1984
+Jelena;Jelic;2005
+Tomislav;Odrljin;1951
+Josip;Beric;1986
+Antonija;Blace;1983
