@@ -233,6 +233,7 @@ namespace PROJEKT
                 }
             }
 
+            Console.WriteLine();
             Console.WriteLine("Unesite indeks korisnika kojeg želite promijeniti");
             indeks = Convert.ToInt32(Console.ReadLine()) - 1;
             Console.WriteLine();
